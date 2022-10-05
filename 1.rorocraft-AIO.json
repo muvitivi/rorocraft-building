@@ -22,8 +22,8 @@
   "status_irc" : false,
 
   "note" : "IRCBAN",
-  "is_active_ircban" : true,
-  "top_banner_ircban" : true,
+  "is_active_ircban" : false,
+  "top_banner_ircban" : false,
   "time_interval_ircban" : 6000,
   "time_after_load_ircban" : 7000,
   "refresh_ircban" : 120,
