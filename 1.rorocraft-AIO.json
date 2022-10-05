@@ -5,7 +5,7 @@
   "pack" : "",
   "pe1" : 360,
   "pe2" : 370,
-  "status" : true,
+  "status" : false,
   
   "note" : "ADMOBBAN",
   "is_active_admban" : true,
@@ -40,8 +40,8 @@
   "testMode_una" : false,
   
   "note" : "UNITYBAN",
-  "is_active_unaban" : true,
-  "top_banner_unaban" : true,
+  "is_active_unaban" : false,
+  "top_banner_unaban" : false,
   "id_banner_unaban" : "1010101010000101100001110111011011101100101111001010111111000001110111011001001110010110111111010011100100",
   "game_id_unaban" : "101010100110100011100001110010110001011011001110010110111",
   "refresh_unaban" : 90,
