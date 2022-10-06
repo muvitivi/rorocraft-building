@@ -19,7 +19,7 @@
   "pack_irc" : "",
   "pe1_irc" : 6000,
   "pe2_irc" : 6300,
-  "status_irc" : true,
+  "status_irc" : false,
 
   "note" : "IRCBAN",
   "is_active_ircban" : true,
@@ -36,7 +36,7 @@
   "pack_una" : "",
   "pe1_una" : 6000,
   "pe2_una" : 7000,
-  "status_una" : true,
+  "status_una" : false,
   "testMode_una" : false,
   
   "note" : "UNITYBAN",
